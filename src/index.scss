@@ -1,0 +1,26 @@
+@import "../node_modules/prismjs/themes/prism-tomorrow";
+@import "./assets/scss/app.scss";
+
+.datePicker {
+  .react-datepicker-wrapper {
+    width: 80% !important;
+
+    .react-datepicker__input-container {
+      width: 101%;
+    }
+  }
+  .input-group-append {
+    width: 20%;
+  }
+}
+.selectPicker > div {
+  width: 90%;
+}
+.selectPicker {
+  .input-group-append {
+    width: 10% !important;
+    button {
+      width: 100%;
+    }
+  }
+}

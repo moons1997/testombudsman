@@ -1,0 +1,92 @@
+.login-page {
+  height: 100%;
+}
+
+.login-page .form-control {
+  border-radius: 50px !important;
+  border-bottom: 0 !important;
+  height: 35px !important;
+  padding: 2rem;
+  padding-left: 3.5rem !important;
+  background-color: #C2D6F7 !important;
+}
+
+.login-page .form-control-position {
+  background-color: inherit !important;
+  top: 50% !important;
+  -webkit-transform: translateY(-55%) !important;
+          transform: translateY(-55%) !important;
+  left: 1% !important;
+}
+
+.egk-login #panel-left {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.egk-login #panel-right {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.egk-login h1 {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+.egk-login h2 {
+  color: #4d8ae6;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.egk-login .description {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.egk-login #panel-left .logo-container svg {
+  width: 220px;
+}
+
+.egk-login #panel-right form input {
+  background-color: unset;
+  border: 0;
+  border-bottom: 2px solid #4d8ae6;
+  border-radius: 0;
+  font-weight: 400;
+}
+
+.egk-login .btn.btn-primary {
+  border: 0 !important;
+  border-radius: 50px !important;
+  padding: 15px 40px !important;
+  font-weight: 400 !important;
+}
+
+.egk-login .links a {
+  color: #4d8ae6;
+}
+
+@media only screen and (max-width: 767px) {
+  .egk-login #panel-left {
+    display: none !important;
+  }
+}
+
+.invalid .select__control {
+  border: 1px solid red;
+}
+
+.pageTextView {
+  font-weight: 400;
+}
+/*# sourceMappingURL=custom.css.map */

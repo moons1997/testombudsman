@@ -1,0 +1,14 @@
+{
+	"app_name": "tt.govcontrol.uz",
+	"app_short_name": "ND",
+	"app_made_by_1": "tt.govcontrol.uz",
+	"app_made_by_2": "tt.govcontrol.uz",
+	"api_url": "tt.govcontrol.uz",
+	"api_request_type": "https",
+	"app_test": true,
+	"api_keys": [
+		"tt.govcontrol.uz","38DE6D07BA194F3912871926AD6EF5D243F0D68EDBC2128C56A2BF440055E8E453D6C4B788539D1D82BCB61564F24C7D3E365C80D6246282AA917F73AAD81C46"
+	],
+	"app_version": "1.0.2",
+	"call_center_number": "+998 78 122 99 07"
+}

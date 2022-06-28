@@ -1,0 +1,24 @@
+.table-responsive {
+  height: 60vh;
+  overflow: auto;
+}
+thead tr:nth-child(1) th {
+  border: 1px solid rgba(214, 214, 214, 0.726);
+  background: #003e6de0;
+  position: sticky;
+  text-align: center;
+  top: 0;
+  z-index: 10;
+  font-size: 13px;
+  font-weight: 400;
+}
+td {
+  font-size: 12px;
+  border: 1px solid rgba(214, 214, 214, 0.726);
+}
+.excel-table th {
+  font-size: 12px;
+  border: 1px solid rgba(214, 214, 214, 0.726);
+  border-bottom: 1px solid rgba(214, 214, 214, 0.726) !important;
+}
+/* .table-responsive{ height:80vh; overflow:auto; } thead tr:nth-child(1) th{  position: sticky; top: 0; z-index: 10;  } */

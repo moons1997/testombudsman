@@ -1,0 +1,22 @@
+.rdt_TableHeadRow {
+  background-color: #4177c9;
+}
+.rdt_TableCol {
+  color: #fff !important;
+}
+.inputTEXT {
+  width: 600px;
+}
+.iconSEARCH {
+  background-color: #f8f8f8;
+  transform: translateX(-2px);
+}
+.iconSEARCH:hover {
+  cursor: pointer;
+}
+.activeROW {
+  background-color: #83eaf781;
+}
+.flatpickr-input {
+  background-color: #fff !important;
+}
